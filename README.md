@@ -1,21 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate IC Designer from Egypt</h3>
+<h1 align="center">hey there 👋 I'm Ahmed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashoor&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashoor" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ashoor" alt="ahmed-ashoor" /></a> </p>
+<img align="right" height="137" src="https://media.tenor.com/VqQyx_FNvQoAAAAi/popcat-pop.gif"  />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Verilog HDL**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-ashoor.ahmed-ashoor&"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmedashoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedashoor" height="30" width="40" /></a>
-</p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ashoor&show_icons=true&locale=en&layout=compact" alt="ahmed-ashoor" /></p>
+<p align="left">I'm an IC designer from Egypt<br><br>- 📚 I'm currently learning Verilog HDL</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ashoor&show_icons=true&locale=en" alt="ahmed-ashoor" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashoor&" alt="ahmed-ashoor" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmedashoor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-ashoor/ahmed-ashoor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-ashoor/ahmed-ashoor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmed-ashoor/ahmed-ashoor/output/pacman-contribution-graph.svg">
+</picture>
+
+###
