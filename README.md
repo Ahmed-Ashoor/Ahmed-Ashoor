@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a Digital IC designer from Egypt<br><br>- </p>
+<p align="left">I'm a Digital IC designer from Egypt<br><br> </p>
 
 ###
 
