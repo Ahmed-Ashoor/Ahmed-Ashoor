@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm an IC designer from Egypt<br><br>- 📚 I'm currently learning Verilog HDL</p>
+<p align="left">I'm a Digital IC designer from Egypt<br><br>- </p>
 
 ###
 
