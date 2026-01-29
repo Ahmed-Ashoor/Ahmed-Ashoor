@@ -1,24 +1,14 @@
 <h1 align="center">Well, I'm Ahmed</h1>
 
-###
-
-<img align="right" height="137" src="https://media.tenor.com/VqQyx_FNvQoAAAAi/popcat-pop.gif"  />
-
-###
+<p align="center">Digital IC Design & Verification Enthusiast<br> </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-ashoor.ahmed-ashoor&"  />
+<a href="https://www.linkedin.com/in/ahmedashoor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
 </div>
 
-###
-
-<p align="left">Digital IC Design & Verification Enthusiast<br><br> </p>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmedashoor/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-ashoor.ahmed-ashoor&"  />
   </a>
 </div>
 
