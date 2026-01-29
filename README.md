@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I'm Ahmed</h1>
+<h1 align="center">Well, I'm Ahmed</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a Digital IC designer from Egypt<br><br> </p>
+<p align="left">Digital IC Design Enthusiast<br><br> </p>
 
 ###
 
