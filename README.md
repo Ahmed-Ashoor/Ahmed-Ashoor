@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Digital IC Design Enthusiast<br><br> </p>
+<p align="left">Digital IC Design & Verification Enthusiast<br><br> </p>
 
 ###
 
